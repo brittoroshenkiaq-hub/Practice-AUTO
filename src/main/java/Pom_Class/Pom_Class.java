@@ -13,6 +13,9 @@ public class Pom_Class {
 		PageFactory.initElements(driver1, this);
 }
 
+
+	
+
 @FindBy(xpath = "//a[text()='click here']")
 public WebElement Clickhere;
 
